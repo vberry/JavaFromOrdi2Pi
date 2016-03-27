@@ -8,7 +8,9 @@ public class Main {
 		Scanner clavier = new Scanner(System.in);
 		String message = clavier.next();
 		clavier.close();
-		System.out.print("Prochain mot obtenu du clavier : ");
+		System.out.print("Prochain ... obtenu du clavier de Hali : ");
 		System.out.println(message);
+		
 	}
+	
 }
