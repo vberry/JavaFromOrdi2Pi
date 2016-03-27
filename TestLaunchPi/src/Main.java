@@ -11,5 +11,4 @@ public class Main {
 		System.out.print("Prochain mot obtenu du clavier : ");
 		System.out.println(message);
 	}
-
 }
