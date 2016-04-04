@@ -5,6 +5,8 @@ import com.pi4j.system.SystemInfo;
 import java.io.IOException;
 import java.text.ParseException;
 
+// CE PROGRAMME FONCTIONNE
+
 public class TestPi4jSystemInfo {
 
     public static void main(String[] args) throws InterruptedException, IOException, ParseException {

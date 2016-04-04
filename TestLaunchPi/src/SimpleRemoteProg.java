@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class Main {
+// CE PROGRAMME FONCTIONNE
+
+public class SimpleRemoteProg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
